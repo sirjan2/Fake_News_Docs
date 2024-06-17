@@ -432,13 +432,13 @@ OUTPUT 0ACover\0cover.aux
 INPUT .\0ACover\0cover.tex
 INPUT .\0ACover\0cover.tex
 INPUT 0ACover\0cover.tex
-INPUT .\img\Graphics\TUlogo.png
-INPUT .\img\Graphics\TUlogo.png
-INPUT .\img\Graphics\TUlogo.png
-INPUT .\img\Graphics\TUlogo.png
-INPUT .\img\Graphics\TUlogo.png
-INPUT .\img\Graphics\TUlogo.png
-INPUT .\img\Graphics\TUlogo.png
+INPUT .\img\Graphics\LOGO.jpeg
+INPUT .\img\Graphics\LOGO.jpeg
+INPUT .\img\Graphics\LOGO.jpeg
+INPUT .\img\Graphics\LOGO.jpeg
+INPUT .\img\Graphics\LOGO.jpeg
+INPUT .\img\Graphics\LOGO.jpeg
+INPUT .\img\Graphics\LOGO.jpeg
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
@@ -453,6 +453,9 @@ OUTPUT 0ACover\1title.aux
 INPUT .\0ACover\1title.tex
 INPUT .\0ACover\1title.tex
 INPUT 0ACover\1title.tex
+INPUT .\img\Graphics\TUlogo.png
+INPUT .\img\Graphics\TUlogo.png
+INPUT .\img\Graphics\TUlogo.png
 INPUT .\img\Graphics\TUlogo.png
 INPUT .\img\Graphics\TUlogo.png
 INPUT .\img\Graphics\TUlogo.png
@@ -581,20 +584,20 @@ OUTPUT 3Methodology\methodology.aux
 INPUT .\3Methodology\methodology.tex
 INPUT .\3Methodology\methodology.tex
 INPUT 3Methodology\methodology.tex
-INPUT .\Diagrams\Main_Block.png
-INPUT .\Diagrams\Main_Block.png
-INPUT .\Diagrams\Main_Block.png
-INPUT .\Diagrams\Main_Block.png
-INPUT .\Diagrams\Main_Block.png
-INPUT .\Diagrams\Main_Block.png
-INPUT .\Diagrams\Main_Block.png
-INPUT .\Diagrams\er.drawio.png
-INPUT .\Diagrams\er.drawio.png
-INPUT .\Diagrams\er.drawio.png
-INPUT .\Diagrams\er.drawio.png
-INPUT .\Diagrams\er.drawio.png
-INPUT .\Diagrams\er.drawio.png
-INPUT .\Diagrams\er.drawio.png
+INPUT .\Diagrams\New system.drawio.png
+INPUT .\Diagrams\New system.drawio.png
+INPUT .\Diagrams\New system.drawio.png
+INPUT .\Diagrams\New system.drawio.png
+INPUT .\Diagrams\New system.drawio.png
+INPUT .\Diagrams\New system.drawio.png
+INPUT .\Diagrams\New system.drawio.png
+INPUT .\Diagrams\ER new.drawio.png
+INPUT .\Diagrams\ER new.drawio.png
+INPUT .\Diagrams\ER new.drawio.png
+INPUT .\Diagrams\ER new.drawio.png
+INPUT .\Diagrams\ER new.drawio.png
+INPUT .\Diagrams\ER new.drawio.png
+INPUT .\Diagrams\ER new.drawio.png
 INPUT .\Diagrams\Activity.drawio.png
 INPUT .\Diagrams\Activity.drawio.png
 INPUT .\Diagrams\Activity.drawio.png
@@ -602,20 +605,20 @@ INPUT .\Diagrams\Activity.drawio.png
 INPUT .\Diagrams\Activity.drawio.png
 INPUT .\Diagrams\Activity.drawio.png
 INPUT .\Diagrams\Activity.drawio.png
-INPUT .\Diagrams\DFD.drawio.png
-INPUT .\Diagrams\DFD.drawio.png
-INPUT .\Diagrams\DFD.drawio.png
-INPUT .\Diagrams\DFD.drawio.png
-INPUT .\Diagrams\DFD.drawio.png
-INPUT .\Diagrams\DFD.drawio.png
-INPUT .\Diagrams\DFD.drawio.png
-INPUT .\Diagrams\use_case.png
-INPUT .\Diagrams\use_case.png
-INPUT .\Diagrams\use_case.png
-INPUT .\Diagrams\use_case.png
-INPUT .\Diagrams\use_case.png
-INPUT .\Diagrams\use_case.png
-INPUT .\Diagrams\use_case.png
+INPUT .\Diagrams\dfd0new.drawio.png
+INPUT .\Diagrams\dfd0new.drawio.png
+INPUT .\Diagrams\dfd0new.drawio.png
+INPUT .\Diagrams\dfd0new.drawio.png
+INPUT .\Diagrams\dfd0new.drawio.png
+INPUT .\Diagrams\dfd0new.drawio.png
+INPUT .\Diagrams\dfd0new.drawio.png
+INPUT .\Diagrams\Use-case.drawio.png
+INPUT .\Diagrams\Use-case.drawio.png
+INPUT .\Diagrams\Use-case.drawio.png
+INPUT .\Diagrams\Use-case.drawio.png
+INPUT .\Diagrams\Use-case.drawio.png
+INPUT .\Diagrams\Use-case.drawio.png
+INPUT .\Diagrams\Use-case.drawio.png
 INPUT .\4ImplementationAndTesting\ImplementationAndTesting.tex
 INPUT .\4ImplementationAndTesting\ImplementationAndTesting.tex
 OUTPUT 4ImplementationAndTesting\ImplementationAndTesting.aux
@@ -631,13 +634,13 @@ INPUT 5ConclusionFuture\conclusion.tex
 INPUT .\Appendix\appendix1.tex
 INPUT .\Appendix\appendix1.tex
 INPUT Appendix\appendix1.tex
-INPUT .\Diagrams\Gantt_Chart.png
-INPUT .\Diagrams\Gantt_Chart.png
-INPUT .\Diagrams\Gantt_Chart.png
-INPUT .\Diagrams\Gantt_Chart.png
-INPUT .\Diagrams\Gantt_Chart.png
-INPUT .\Diagrams\Gantt_Chart.png
-INPUT .\Diagrams\Gantt_Chart.png
+INPUT .\Diagrams\Online Gantt 20240617.png
+INPUT .\Diagrams\Online Gantt 20240617.png
+INPUT .\Diagrams\Online Gantt 20240617.png
+INPUT .\Diagrams\Online Gantt 20240617.png
+INPUT .\Diagrams\Online Gantt 20240617.png
+INPUT .\Diagrams\Online Gantt 20240617.png
+INPUT .\Diagrams\Online Gantt 20240617.png
 INPUT .\Appendix\appendix2.tex
 INPUT .\Appendix\appendix2.tex
 INPUT Appendix\appendix2.tex

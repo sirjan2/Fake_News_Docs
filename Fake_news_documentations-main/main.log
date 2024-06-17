@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.21)  16 JUN 2024 18:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.21)  17 JUN 2024 15:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1439,18 +1439,19 @@ Package hyperref Info: Link coloring ON on input line 167.
 \openout2 = `0ACover/0cover.aux'.
 
  (0ACover/0cover.tex
-<img/Graphics/TUlogo.png, id=162, 440.64626pt x 512.91624pt>
-File: img/Graphics/TUlogo.png Graphic file (type png)
-<use img/Graphics/TUlogo.png>
-Package pdftex.def Info: img/Graphics/TUlogo.png  used on input line 5.
-(pdftex.def)             Requested size: 110.16129pt x 128.22874pt.
+<img/Graphics/LOGO.jpeg, id=162, 200.75pt x 200.75pt>
+File: img/Graphics/LOGO.jpeg Graphic file (type jpg)
+<use img/Graphics/LOGO.jpeg>
+Package pdftex.def Info: img/Graphics/LOGO.jpeg  used on input line 5.
+(pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
  [1
 
 
-{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/Graphics/TUlogo.png>])
+{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/Graphics/LOGO.jpeg>])
 \openout2 = `0ACover/1title.aux'.
 
  (0ACover/1title.tex
+<img/Graphics/TUlogo.png, id=169, 440.64626pt x 512.91624pt>
 File: img/Graphics/TUlogo.png Graphic file (type png)
 <use img/Graphics/TUlogo.png>
 Package pdftex.def Info: img/Graphics/TUlogo.png  used on input line 5.
@@ -1460,7 +1461,7 @@ Package pdftex.def Info: img/Graphics/TUlogo.png  used on input line 5.
 
 
 
-])
+ <./img/Graphics/TUlogo.png>])
 \openout2 = `0ACover/2copyright.aux'.
 
  (0ACover/2copyright.tex
@@ -1663,7 +1664,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 \openout2 = `0IAbbreviations/abbreviations.aux'.
 
  (0IAbbreviations/abbreviations.tex
-Overfull \hbox (164.71997pt too wide) in paragraph at lines 9--31
+Overfull \hbox (159.38004pt too wide) in paragraph at lines 9--24
 [][] 
  []
 
@@ -1701,67 +1702,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--228
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--228
-
- []
-
 [3
 
 
 
 
-] [4] [5]
+] [4]
 \openout2 = `3Methodology/methodology.aux'.
 
  (3Methodology/methodology.tex
 Chapter 3.
-[6
+[5
 
 
 
 
-] [7]
-<Diagrams/Main_Block.png, id=309, 512.91624pt x 282.05376pt>
-File: Diagrams/Main_Block.png Graphic file (type png)
-<use Diagrams/Main_Block.png>
-Package pdftex.def Info: Diagrams/Main_Block.png  used on input line 29.
-(pdftex.def)             Requested size: 413.93373pt x 227.62204pt.
-
-Overfull \hbox (15.16835pt too wide) in paragraph at lines 29--30
-[][] 
- []
-
-[8 <./Diagrams/Main_Block.png>]
-<Diagrams/er.drawio.png, id=315, 1416.29124pt x 884.30376pt>
-File: Diagrams/er.drawio.png Graphic file (type png)
-<use Diagrams/er.drawio.png>
-Package pdftex.def Info: Diagrams/er.drawio.png  used on input line 37.
-(pdftex.def)             Requested size: 546.8406pt x 341.43306pt.
- [9 <./Diagrams/er.drawio.png>]
-<Diagrams/Activity.drawio.png, id=321, 674.52pt x 1286.8075pt>
+] [6]
+<Diagrams/New system.drawio.png, id=303, 563.10374pt x 362.35374pt>
+File: Diagrams/New system.drawio.png Graphic file (type png)
+<use Diagrams/New system.drawio.png>
+Package pdftex.def Info: Diagrams/New system.drawio.png  used on input line 29.
+(pdftex.def)             Requested size: 353.73476pt x 227.62204pt.
+ [7 <./Diagrams/New system.drawio.png>]
+<Diagrams/ER new.drawio.png, id=310, 824.07875pt x 723.70375pt>
+File: Diagrams/ER new.drawio.png Graphic file (type png)
+<use Diagrams/ER new.drawio.png>
+Package pdftex.def Info: Diagrams/ER new.drawio.png  used on input line 37.
+(pdftex.def)             Requested size: 388.78827pt x 341.43306pt.
+ [8 <./Diagrams/ER new.drawio.png>]
+<Diagrams/Activity.drawio.png, id=316, 231.86626pt x 663.47874pt>
 File: Diagrams/Activity.drawio.png Graphic file (type png)
 <use Diagrams/Activity.drawio.png>
 Package pdftex.def Info: Diagrams/Activity.drawio.png  used on input line 45.
-(pdftex.def)             Requested size: 223.71414pt x 426.79134pt.
- [10 <./Diagrams/Activity.drawio.png>]
-<Diagrams/DFD.drawio.png, id=327, 442.65375pt x 352.31625pt>
-File: Diagrams/DFD.drawio.png Graphic file (type png)
-<use Diagrams/DFD.drawio.png>
-Package pdftex.def Info: Diagrams/DFD.drawio.png  used on input line 53.
-(pdftex.def)             Requested size: 285.98564pt x 227.62204pt.
- [11 <./Diagrams/DFD.drawio.png>]
-<Diagrams/use_case.png, id=333, 621.522pt x 437.83575pt>
-File: Diagrams/use_case.png Graphic file (type png)
-<use Diagrams/use_case.png>
-Package pdftex.def Info: Diagrams/use_case.png  used on input line 60.
-(pdftex.def)             Requested size: 403.90865pt x 284.52756pt.
+(pdftex.def)             Requested size: 149.15102pt x 426.79134pt.
+ [9 <./Diagrams/Activity.drawio.png>]
+<Diagrams/dfd0new.drawio.png, id=322, 583.17876pt x 81.30376pt>
+File: Diagrams/dfd0new.drawio.png Graphic file (type png)
+<use Diagrams/dfd0new.drawio.png>
+Package pdftex.def Info: Diagrams/dfd0new.drawio.png  used on input line 53.
+(pdftex.def)             Requested size: 408.18675pt x 56.9055pt.
 
-Overfull \hbox (5.14326pt too wide) in paragraph at lines 60--61
-[][] 
+Overfull \hbox (9.42137pt too wide) in paragraph at lines 53--54
+ [][] 
  []
 
-) [12 <./Diagrams/use_case.png>]
+[10 <./Diagrams/dfd0new.drawio.png>]
+<Diagrams/Use-case.drawio.png, id=328, 563.10374pt x 462.72874pt>
+File: Diagrams/Use-case.drawio.png Graphic file (type png)
+<use Diagrams/Use-case.drawio.png>
+Package pdftex.def Info: Diagrams/Use-case.drawio.png  used on input line 60.
+(pdftex.def)             Requested size: 346.2509pt x 284.52756pt.
+) [11 <./Diagrams/Use-case.drawio.png>]
 \openout2 = `4ImplementationAndTesting/ImplementationAndTesting.aux'.
 
  (4ImplementationAndTesting/ImplementationAndTesting.tex
@@ -1771,12 +1762,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--230
 
  []
 
-[13
+[12
 
 
 
 
-] [14]
+] [13] [14]
 \openout2 = `5ConclusionFuture/conclusion.aux'.
 
  (5ConclusionFuture/conclusion.tex
@@ -1787,11 +1778,11 @@ Chapter 5.
 
 
 ] (Appendix/appendix1.tex
-<Diagrams/Gantt_Chart.png, id=352, 770.88pt x 578.16pt>
-File: Diagrams/Gantt_Chart.png Graphic file (type png)
-<use Diagrams/Gantt_Chart.png>
-Package pdftex.def Info: Diagrams/Gantt_Chart.png  used on input line 5.
-(pdftex.def)             Requested size: 401.50146pt x 301.1213pt.
+<Diagrams/Online Gantt 20240617.png, id=351, 1293.83376pt x 265.99374pt>
+File: Diagrams/Online Gantt 20240617.png Graphic file (type png)
+<use Diagrams/Online Gantt 20240617.png>
+Package pdftex.def Info: Diagrams/Online Gantt 20240617.png  used on input line 5.
+(pdftex.def)             Requested size: 401.50146pt x 82.54243pt.
 
 Overfull \hbox (2.73608pt too wide) in paragraph at lines 5--6
  [][] 
@@ -1801,7 +1792,7 @@ Overfull \hbox (2.73608pt too wide) in paragraph at lines 5--6
 
 
 
- <./Diagrams/Gantt_Chart.png>] (main.bbl)
+ <./Diagrams/Online Gantt 20240617.png>] (main.bbl)
 
 Package caption Warning: Unused \captionsetup[table] on input line 131.
 See the caption package documentation for explanation.
@@ -1814,20 +1805,20 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9A4CCAAE043B45F3E733CEBAFAE1906A;5280.
+(rerunfilecheck)             Checksum: 237D4683432B759F1F10601773D395C8;5227.
  ) 
 Here is how much of TeX's memory you used:
- 33767 strings out of 475503
- 651998 string characters out of 5771649
+ 33765 strings out of 475503
+ 652290 string characters out of 5771649
  1928248 words of memory out of 5000000
- 54056 multiletter control sequences out of 15000+600000
- 582843 words of font info for 192 fonts, out of 8000000 for 9000
+ 54059 multiletter control sequences out of 15000+600000
+ 582526 words of font info for 189 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,8n,117p,1494b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (29 pages, 383202 bytes).
+Output written on main.pdf (29 pages, 284010 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 36712 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 397 PDF objects out of 1000 (max. 8388607)
+ 80 named destinations out of 1000 (max. 500000)
+ 36717 words of extra memory for PDF output out of 42996 (max. 10000000)
 

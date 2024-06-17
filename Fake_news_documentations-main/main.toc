@@ -17,21 +17,21 @@
 \contentsline {section}{\numberline {2.1}Background Study}{3}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Limitation}{3}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Literature Review}{3}{section.2.3}%
-\contentsline {chapter}{\numberline {3}METHODOLOGY}{6}{chapter.3}%
-\contentsline {section}{\numberline {3.1}System Development Approach}{6}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Requirement Analysis}{6}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Feasibility Analysis}{6}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Economical Feasibility}{6}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Operational Feasibility}{7}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Technical Feasibility}{7}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}System Design}{8}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Architecture Design}{8}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Data Modelling(ER-Diagram)}{9}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Activity Diagram}{10}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.4.4}DFD}{11}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3.4.5}Use Case Diagram}{12}{subsection.3.4.5}%
-\contentsline {chapter}{\numberline {4}IMPLEMENTATION}{13}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Tools Used}{13}{section.4.1}%
+\contentsline {chapter}{\numberline {3}METHODOLOGY}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Iterative Approach}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Requirement Analysis}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Feasibility Analysis}{5}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Financial Feasibility}{6}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Operational Feasibility}{6}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Technical Feasibility}{6}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}System Design}{7}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Architecture Design}{7}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Data Modelling(ER-Diagram)}{8}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Activity Diagram}{9}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}DFD}{10}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Use Case Diagram}{11}{subsection.3.4.5}%
+\contentsline {chapter}{\numberline {4}IMPLEMENTATION}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Tools Used}{12}{section.4.1}%
 \contentsline {chapter}{\numberline {5}CONCLUSION AND EXPECTED OUTCOMES}{15}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Conclusion}{15}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Expected Outcome}{15}{section.5.2}%
